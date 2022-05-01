@@ -2,8 +2,7 @@
 var backimg =[
     "url(https://s2.loli.net/2022/04/24/V3ecGjXf8OqJEsU.png)",
     "url(https://s2.loli.net/2022/04/26/DYzgJ64SqFCAUKs.jpg)",
-    "url(https://s2.loli.net/2022/04/26/7m5P3eBCZ6ANbFG.jpg)",
-    "url(/img/bg4.jpg)"
+    "url(https://s2.loli.net/2022/04/26/7m5P3eBCZ6ANbFG.jpg)"
   ];
   //获取背景图片总数，生成随机数
   var bgindex =Math.floor(Math.random() * (backimg.length));
@@ -13,8 +12,7 @@ var backimg =[
   var bannerimg =[
     "url(https://s2.loli.net/2022/04/24/V3ecGjXf8OqJEsU.png)",
     "url(https://s2.loli.net/2022/04/26/DYzgJ64SqFCAUKs.jpg)",
-    "url(https://s2.loli.net/2022/04/26/7m5P3eBCZ6ANbFG.jpg)",
-    "url(/img/bg4.jpg)"
+    "url(https://s2.loli.net/2022/04/26/7m5P3eBCZ6ANbFG.jpg)"
   ];
   //获取banner图片总数，生成随机数
   var bannerindex =Math.ceil(Math.random() * (bannerimg.length-1));
