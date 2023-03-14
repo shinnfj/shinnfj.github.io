@@ -12,7 +12,9 @@ var backimg =[
   var bannerimg =[
     "url(https://s2.loli.net/2022/04/24/V3ecGjXf8OqJEsU.png)",
     "url(https://s2.loli.net/2022/04/26/DYzgJ64SqFCAUKs.jpg)",
-    "url(https://s2.loli.net/2022/04/26/7m5P3eBCZ6ANbFG.jpg)"
+    "url(https://s2.loli.net/2022/04/26/7m5P3eBCZ6ANbFG.jpg)",
+    "url(https://s2.loli.net/2023/03/14/fPe97ySvnGrBUlo.jpg)",
+    "url(https://s2.loli.net/2023/03/14/z4wv3SbLDqRAVtl.jpg)",
   ];
   //获取banner图片总数，生成随机数
   var bannerindex =Math.ceil(Math.random() * (bannerimg.length-1));
